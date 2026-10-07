@@ -1,0 +1,8 @@
+{
+  "name": "understanding-meter",
+  "version": "1.0.0",
+  "description": "Live red/yellow/green understanding meter with anonymous questions",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
